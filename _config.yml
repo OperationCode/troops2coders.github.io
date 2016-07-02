@@ -1,0 +1,24 @@
+title: Troops2Coders
+description: Where US troops come to learn about coding and software development.
+baseurl: ""
+url: http://troops2coders.com
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+production_url : http://troops2coders.github.io/
+BASE_PATH : http://troops2coders.github.io/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+
+social:
+   github: operationcode
+   twitter: operation_code
+   facebook: operationcode.org
+   email: jameel@operationcode.org
+
+google_analytics: "..."

@@ -1,7 +1,7 @@
 title: Troops2Coders
 description: Where US troops come to learn about coding and software development.
 baseurl: ""
-url: https://troops2coders.com
+url: http://troops2coders.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 

@@ -1,5 +1,5 @@
 title: Troops2Coders
-description: Where US troops come to learn about coding and software development.
+description: "Troops2Coders is where US troops come to learn about coding and software development. A veteran transition program of Operation Code."
 baseurl: ""
 url: http://troops2coders.com
 paginate_path: "blog/page:num/"
@@ -19,6 +19,6 @@ social:
    github: operationcode
    twitter: operation_code
    facebook: operationcode.org
-   email: jameel@operationcode.org
+   email: contact@operationcode.org
 
 google_analytics: "..."
